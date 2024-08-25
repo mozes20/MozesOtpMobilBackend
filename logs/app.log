@@ -1,5 +1,0 @@
-2024-23-24 10:23:52.371 [main] ERROR org.example.Main - An exception occurred
-java.lang.Exception: This is a test exception
-	at org.example.Main.main(Main.java:13) [classes/:?]
-2024-18-24 13:18:36.034 [main] ERROR org.example.Webshop.services.CsvService - Error reading file: src/main/resources/payments.csv
-2024-25-24 13:25:35.754 [main] ERROR org.example.Main - Error reading file: Cannot invoke "java.net.URL.getPath()" because the return value of "java.lang.ClassLoader.getSystemResource(String)" is null
